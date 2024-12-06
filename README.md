@@ -25,6 +25,7 @@ ISA5810 Data Mining Lab 2
 
 
 3. Third: This part is worth 30% of your grade. A report of your work developping the model for the competition (You can use code and comment it). This report should include what your preprocessing steps, the feature engineering steps and an explanation of your model. You can also mention different things you tried and insights you gained.
+    - file : [Kaggle-competition-code](./kaggle_competition/)
     - file : [Report](./kaggle_competition/Report.pdf)
 
 
